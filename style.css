@@ -1,0 +1,84 @@
+.sta{
+    font-size: 40px;
+    padding-top: 20px;
+     margin-left: 90px;
+     font-style: italic;
+}
+.or h4{
+    padding-top: 10px;
+    color: rgb(76, 76, 137);
+    margin-left: 150px;
+}
+h5{
+    color: rgb(76, 76, 96);
+    margin-left: 120px;
+}
+.ins{
+    display: flex;
+}
+
+.container{
+    border:1px solid rgb(187, 187, 187);
+    width: 340px;
+    height: 420px;
+}
+.form{
+    margin-top: 40px;
+    margin-left: 1px;
+    display: flex;
+    padding-left: 600px; 
+}
+.loh{
+    padding-left: 40px;
+}
+input{
+    width: 250px;
+    padding: 7px ;
+    margin-left: 38px;
+    border-radius: 4px;
+}
+.login{
+    width: 265px;
+    cursor: pointer;
+    color: beige;
+    background-color: rgb(30, 146, 218);
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    margin-left: 2px;
+}
+
+.fa-facebook{
+
+    padding-left: 55px;
+    margin-left: 28px;
+    color: rgb(68, 68, 147);    
+}
+.skip{
+    border: 1px solid rgb(215, 210, 210);
+    width: 280px;
+    height:70px;
+    padding-left:60px;
+}
+span{
+    color: rgb(108, 160, 251);
+    cursor: pointer;
+}
+.get{
+    margin-left: 50px;
+    cursor: pointer;
+}
+.mic{
+    padding-left: 3px;
+}
+.App{
+    margin-left: 120px;
+}
+.insta-image{
+    width: 40%;
+}
+.insta-image img{
+    margin-left: 190px;
+    width: 300px;
+    height: 600px;
+}
